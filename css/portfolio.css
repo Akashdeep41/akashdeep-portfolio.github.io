@@ -23,6 +23,9 @@ body {
     font-family: var(--primary-font);
     background-color: #1F252E;
 }
+body{
+    text-align: center;
+    }
 p {
     font-size: .98rem;
     color: #d1d1d1;
